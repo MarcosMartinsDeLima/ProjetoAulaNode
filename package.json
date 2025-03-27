@@ -1,0 +1,23 @@
+{
+  "name": "projetoaulanode",
+  "version": "1.0.0",
+  "description": "Este repositorio é para aula de microsserviços e api com node, feito por Marcos e Abner Lucas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosMartinsDeLima/ProjetoAulaNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosMartinsDeLima/ProjetoAulaNode/issues"
+  },
+  "homepage": "https://github.com/MarcosMartinsDeLima/ProjetoAulaNode#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
